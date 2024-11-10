@@ -1,28 +1,77 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-122.4194, 37.7749]
-        },
-        "properties": {
-          "name": "Store One",
-          "address": "123 Main St, San Francisco, CA"
-        }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
       },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-74.006, 40.7128]
-        },
-        "properties": {
-          "name": "Store Two",
-          "address": "456 Broadway, New York, NY"
-        }
+      "properties": {
+        "name": "Store One",
+        "address": "Connaught Place, New Delhi, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToPp6EiBLVqqEpxLTJeIwPF3Sig3TfFbr_Jw&s"
       }
-    ]
-  }
-  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.2785, 13.0878]
+      },
+      "properties": {
+        "name": "Store Two",
+        "address": "T Nagar, Chennai, Tamil Nadu, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToPp6EiBLVqqEpxLTJeIwPF3Sig3TfFbr_Jw&s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3639, 22.5726]
+      },
+      "properties": {
+        "name": "Store Three",
+        "address": "Park Street, Kolkata, West Bengal, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToPp6EiBLVqqEpxLTJeIwPF3Sig3TfFbr_Jw&s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "name": "Store Four",
+        "address": "Colaba, Mumbai, Maharashtra, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToPp6EiBLVqqEpxLTJeIwPF3Sig3TfFbr_Jw&s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8577, 26.9124]
+      },
+      "properties": {
+        "name": "Store Five",
+        "address": "Hawa Mahal, Jaipur, Rajasthan, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToPp6EiBLVqqEpxLTJeIwPF3Sig3TfFbr_Jw&s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5946, 12.9716]
+      },
+      "properties": {
+        "name": "Store Six",
+        "address": "MG Road, Bangalore, Karnataka, India",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToPp6EiBLVqqEpxLTJeIwPF3Sig3TfFbr_Jw&s"
+      }
+    }
+  ]
+}
